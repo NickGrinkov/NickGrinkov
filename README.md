@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there 👋, I`m Nick
+
+### I`m Junior Frontend Developer
+
+- ⌨️ I like to write code
+- 📚 I`m constantly learning new things
+- 🔍 I`m currently looking for a job 
+- 🏅 I like workout and to play soccer
+
+
 
 <!--
 **NickGrinkov/NickGrinkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
