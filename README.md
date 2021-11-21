@@ -1,6 +1,6 @@
 ### Hi there 👋, I`m Nick
 
-### I`m Junior Frontend Developer
+### I`m Frontend Developer
 
 - ⌨️ I like to write code
 - 📚 I`m constantly learning new things
