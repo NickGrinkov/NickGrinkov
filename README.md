@@ -4,7 +4,6 @@
 
 - ⌨️ I like to write code
 - 📚 I`m constantly learning new things
-- 🔍 I`m currently looking for a job 
 - 🏅 I like workout and to play soccer
 
 ### Languages and Tools:
