@@ -4,7 +4,7 @@
 
 - ⌨️ I like to write code
 - 📚 I`m constantly learning new things
-- 🏅 I like workout and to play soccer
+- 🏅 I like workout and play soccer
 
 ### Languages and Tools:
 
